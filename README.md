@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
+                    <a href="https://github.com/Bhavyansh004">
+                        <img src="https://avatars.githubusercontent.com/u/156428099?s=400&u=50ac5f3042300b65f6e5d413052036e88883e464&v=4" width="100px;" alt="Bhavyansh Nandwana"/>
+                        <br />
+                        <sub><b>Bhavyansh Nandwana</b></sub>
+                    </a> 
+                </td>
+            <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
